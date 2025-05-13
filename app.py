@@ -13,12 +13,9 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, fil
 from functools import wraps
 
 
-# Carga de variables de entorno (reemplaza por tus propias tokens si las guardas en variables de entorno)
 
 
-
-
-ADMIN_CHAT_ID = -4739127677
+ADMIN_CHAT_ID = 00000000
 
 # Variables para gestionar recordatorios
 # Archivo para persistir recordatorios
